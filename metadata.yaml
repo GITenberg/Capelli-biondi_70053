@@ -1,0 +1,31 @@
+_repo: Capelli-biondi_70053
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farina, Salvatore
+    birthdate: 1846
+    deathdate: 1918
+    gutenberg_agent_id: '7674'
+    url: http://www.gutenberg.org/2009/agents/7674
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Salvatore_Farina
+    - https://it.wikipedia.org/wiki/Salvatore_Farina
+description: ''
+gutenberg_issued: '2023-02-16'
+identifiers:
+  gutenberg: '70053'
+language: it
+pgterms:marc905: 20210715085516farina
+pgterms:marc906: '1876'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aItaly :$bBrigola, $c1876.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Capelli biondi
+url: http://www.gutenberg.org/ebooks/70053
